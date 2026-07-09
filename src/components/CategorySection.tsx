@@ -45,7 +45,7 @@ export default function CategorySection() {
     { 
       name: 'Diabetes Support', 
       color: 'bg-emerald-50 text-emerald-700', 
-      img: 'https://www.shutterstock.com/search/diabetes-banners' 
+      img: 'https://images.unsplash.com/photo-1628863014023-ad818b6e34c5?auto=format&fit=crop&w=150&h=150&q=80' 
     },
     { 
       name: 'Devices & Gadgets', 
