@@ -45,7 +45,7 @@ export default function CategorySection() {
     { 
       name: 'Diabetes Support', 
       color: 'bg-emerald-50 text-emerald-700', 
-      img: 'https://images.unsplash.com/photo-1628863014023-ad818b6e34c5?auto=format&fit=crop&w=150&h=150&q=80' 
+      img: 'https://www.thehimalayanorganics.in/products/himalayan-organics-diabetes-support-supplement-helps-control-blood-sugar-levels-100-vegetarian-60-capsules?srsltid=AfmBOooLfZJ9m9vFp_iWUCjj1TF7bSmp57skZKXD8ZqD1EUxA7pDflEH' 
     },
     { 
       name: 'Devices & Gadgets', 
