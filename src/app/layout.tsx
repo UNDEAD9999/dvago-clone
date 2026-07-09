@@ -1,3 +1,4 @@
+import Footer from '@/components/Footer';
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
@@ -28,7 +29,10 @@ export default function RootLayout({
       <body className={`${geistSans.variable} ${geistMono.variable} antialiased`}>
         {/* Wrapping your core tree inside our active shared application state */}
         <AppProvider>
-          {children}
+          <main className="min-h-screen">
+            {children}
+          </main>
+          <Footer />
         </AppProvider>
       </body>
     </html>
