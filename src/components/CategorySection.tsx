@@ -43,11 +43,6 @@ export default function CategorySection() {
       img: 'https://esajee.com/public/uploads/media/WPV5T02JYEoaGLh6KoL1SMAgZJM1aSaF4CE6cBYC.webp' 
     },
     { 
-      name: 'Diabetes Support', 
-      color: 'bg-emerald-50 text-emerald-700', 
-      img: 'https://www.thehimalayanorganics.in/products/himalayan-organics-diabetes-support-supplement-helps-control-blood-sugar-levels-100-vegetarian-60-capsules?srsltid=AfmBOooLfZJ9m9vFp_iWUCjj1TF7bSmp57skZKXD8ZqD1EUxA7pDflEH' 
-    },
-    { 
       name: 'Devices & Gadgets', 
       color: 'bg-indigo-50 text-indigo-700', 
       img: 'https://shahalami.pk/cdn/shop/products/OnCallEzIIBloodGlucoseMonitoringSystem_510x@2x.progressive.jpg?v=1619786195' 
